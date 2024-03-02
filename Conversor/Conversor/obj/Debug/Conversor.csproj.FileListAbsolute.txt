@@ -1,0 +1,10 @@
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.csproj.AssemblyReference.cache
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\Vitor\Desktop\Github Clones\Multi-Plataforma\Conversor\Conversor\obj\Debug\Conversor.Conversor.resources
