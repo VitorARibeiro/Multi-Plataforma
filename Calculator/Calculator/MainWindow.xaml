@@ -1,0 +1,42 @@
+﻿<Window x:Class="Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Calculator"
+        mc:Ignorable="d"
+        Title="Calculadora" Height="490" Width="300">
+    <StackPanel Margin="0,0,0,0">
+        <Label x:Name="ResultLabel" Content="" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Width="300" Height="100" HorizontalContentAlignment="Right" VerticalContentAlignment="Bottom"/>
+        <WrapPanel Margin="0,0,0,0" >
+            <!-- -1 linha de botões -->
+            <Button x:Name="ButtonClear" Content="Clear" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonApagar" Content="Apagar" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonEmpty" Content="" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonDiv" Content="/" FontSize="30" Width="75" Height="75" />
+            <!-- Primeira linha de botões -->
+            <Button x:Name="Button7" Content="7" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button8" Content="8" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button9" Content="9" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonTimes" Content="*" FontSize="30" Width="75" Height="75" />
+            
+            <!-- Segunda linha de botões -->
+            <Button x:Name="Button4" Content="4" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button5" Content="5" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button6" Content="6" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonPlus" Content="+" FontSize="30" Width="75" Height="75" />
+
+            <!-- Terceira linha de botões -->
+            <Button x:Name="Button1" Content="1" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button2" Content="2" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button3" Content="3" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonMinus" Content="-" FontSize="30" Width="75" Height="75" />
+
+            <!-- Quarta linha de botões -->
+            <Button x:Name="ButtonDot" Content="." FontSize="30" Width="75" Height="75" />
+            <Button x:Name="Button0" Content="0" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonEmpty2" Content="" FontSize="30" Width="75" Height="75" />
+            <Button x:Name="ButtonEquals" Content="=" FontSize="30" Background="LightBlue" Width="75" Height="75" />
+        </WrapPanel>
+    </StackPanel>
+</Window>
