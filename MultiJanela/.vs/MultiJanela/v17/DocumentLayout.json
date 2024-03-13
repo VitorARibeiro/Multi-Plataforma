@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|c:\\users\\vitor\\desktop\\github clones\\multi-plataforma\\multijanela\\multijanela\\janela1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|solutionrelative:multijanela\\janela1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|c:\\users\\vitor\\desktop\\github clones\\multi-plataforma\\multijanela\\multijanela\\janela1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|solutionrelative:multijanela\\janela1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|c:\\users\\vitor\\desktop\\github clones\\multi-plataforma\\multijanela\\multijanela\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|solutionrelative:multijanela\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|c:\\users\\vitor\\desktop\\github clones\\multi-plataforma\\multijanela\\multijanela\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}|MultiJanela\\MultiJanela.csproj|solutionrelative:multijanela\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Janela1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\Janela1.xaml.cs",
+              "RelativeDocumentMoniker": "MultiJanela\\Janela1.xaml.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\Janela1.xaml.cs*",
+              "RelativeToolTip": "MultiJanela\\Janela1.xaml.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T12:30:09.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Janela1.xaml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\Janela1.xaml",
+              "RelativeDocumentMoniker": "MultiJanela\\Janela1.xaml",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\Janela1.xaml*",
+              "RelativeToolTip": "MultiJanela\\Janela1.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T12:21:22.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MultiJanela\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\MainWindow.xaml*",
+              "RelativeToolTip": "MultiJanela\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-13T11:25:11.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MultiJanela\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Vitor\\Desktop\\Github Clones\\Multi-Plataforma\\MultiJanela\\MultiJanela\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MultiJanela\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T11:25:05.302Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

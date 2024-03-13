@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiJanela", "MultiJanela\MultiJanela.csproj", "{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFBE4D1B-37D4-4896-8FA4-44AA507EE292}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60E0C548-9285-4764-A388-EAC83F3A80EB}
+	EndGlobalSection
+EndGlobal
